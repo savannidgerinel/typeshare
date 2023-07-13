@@ -6,3 +6,4 @@
     - [Annotations](./usage/annotations.md)
     - [Configuration](./usage/configuration.md)
 - [Contributing](./contributing.md)
+- [Serialization](serialization.md)

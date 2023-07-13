@@ -12,6 +12,7 @@ struct MyStruct {
 }
 
 #[typeshare]
+#[serde(tag = "type", content = "content")]
 enum MyEnum {
     MyVariant,
     MyOtherVariant,
